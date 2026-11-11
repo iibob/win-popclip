@@ -1,4 +1,5 @@
 # WinPopClip
+<img width="621" height="183" alt="image" src="https://github.com/user-attachments/assets/89d0e6b7-6479-4c3b-aa84-c4be1538ceab" />
 
 Windows 版 [PopClip](https://www.popclip.app)：选中文本后，在鼠标旁弹出悬浮小菜单，一键复制、剪切、粘贴、打开链接 / 文件夹，或直接搜索、翻译。
 
